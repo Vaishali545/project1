@@ -2,6 +2,10 @@ welcome hello !!!!
 
 Hello1
 
+
 change: to fix bug1
 
-change : by teammate for wi2 on master
+change : by teammate for wi2 on master.
+
+change to fix bug2
+
